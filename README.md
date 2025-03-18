@@ -1,5 +1,6 @@
 # Dameng_Corpus
-The Dameng_Corpus is a high-quality corpus for **DM-RAG**, obtained using document parsing and text-cleaning methods.
+The Dameng_Corpus is a high-quality plain text corpus for **DM-RAG**, obtained using document parsing and text-cleaning methods.
+
 DM-RAG is a novel retrieval-augmented generation (RAG) framework developed by **Wuhan Dameng Database Co., Ltd**, specifically designed to assist users in the development and management of Dameng database systems. 
 
 Wuhan Dameng Database Co., Ltd is a leading database solutions provider in China and a key promoter of the domestic database software industry.
