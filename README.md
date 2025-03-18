@@ -1,3 +1,5 @@
+![](./logo/dameng.png) 
+
 # Dameng_Corpus
 The Dameng_Corpus is a plain-text corpus for **DM-RAG**, obtained using document parsing and text-cleaning methods.
 
