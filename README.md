@@ -1,7 +1,8 @@
 # Dameng_Corpus
 The corpus for **DM-RAG**. DM-RAG is a novel retrieval-augmented generation (RAG) framework developed by Wuhan Dameng Database Co., Ltd., specifically designed to assist users in the development and management of Dameng database systems. 
 
-- [**Dameng homepage**](https://en.dameng.com/)
+- [**Dameng English homepage**](https://en.dameng.com/)
+- [**Dameng Chinese homepage**](https://eco.dameng.com/)
 
 ## Dataset Description
 - Folder [**common_question**](./common_question/) contains real-world user queries covering various aspects of database usage, including installation, deployment, daily operations and maintenance, SQL syntax, migration, and application development.
