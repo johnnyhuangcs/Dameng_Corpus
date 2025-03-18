@@ -1,7 +1,19 @@
 # Dameng_Corpus
-Dameng Corpus for DM-RAG.
-## Data Ownership and Rights
-The dataset is the exclusive property of **Wuhan Dameng Database Co., Ltd**. Wuhan Dameng Database Co., Ltd reserves all rights, including ownership, interpretation, and distribution of the dataset. Any unauthorized use, reproduction, or modification of this dataset without prior written consent from Wuhan Dameng Database Co., Ltd is strictly prohibited.
+The corpus for **DM-RAG**. DM-RAG is a novel retrieval-augmented generation (RAG) framework developed by Wuhan Dameng Database Co., Ltd., specifically designed to assist users in the development and management of **Dameng database systems**.  
 
-## Usage Restrictions
-The use of this dataset requires the  Wuhan Dameng Database Co., Ltd's written consent. Any individual, organization, or third party must obtain formal approval from  Wuhan Dameng Database Co., Ltd before accessing, utilizing, distributing, or modifying the dataset. Failure to comply may result in legal action or other enforcement measures as deemed necessary by  Wuhan Dameng Database Co., Ltd.
+## Dataset Description
+- Folder [**common_question**](./common_question/) contains real-world user queries covering various aspects of database usage, including installation, deployment, daily operations and maintenance, SQL syntax, migration, and application development.
+
+- Folder [**quick_start**](./quick_start/) offers guidelines for the efficient installation and deployment of the Dameng database (DM8), covering database versions, installation procedures, deployment, database tools, data migration, application development, and clustering.
+
+- Folder [**app-dev**](./app-dev/) provides an overview of various DM access interfaces, the configuration of the corresponding development environment, and related development use cases. This guide offers detailed instructions on using DM access interfaces and setting up the development environment.
+
+
+- Folder [**sql_development_guide**](./sql_development_guide/) presents DM database query optimization rewriting techniques and cases, explains various aspects of SQL statement optimization from multiple angles, and summarizes a large number of practical optimization methods, which can help readers gain a deep understanding of practical methods and techniques related to SQL optimization.  
+
+- Folder [**operations_guide**](./operations_guide/) takes a practical approach to providing a comprehensive and detailed analysis of the daily operation and maintenance of the DM database in an easy-to-understand manner. It summarizes a large number of practical operation and maintenance methods and techniques, and its content covers most daily work scenarios for DBAs.  
+
+- Folder [**product_manual**](./product_manual/) provides the official and complete version of the DM8 product manual for the entire series. It is the most comprehensive technical guide for DBAs and application developers to understand the overall architecture and functions of the DM database and to conduct daily operations, maintenance, and development. 
+
+## Data Ownership and Rights
+The dataset is the exclusive property of **Wuhan Dameng Database Co., Ltd**. Wuhan Dameng Database Co., Ltd reserves all rights, including ownership, interpretation, and distribution of the dataset. Any use, reproduction, or modification of this dataset requires prior written permission from Wuhan Dameng Database Co., Ltd. For inquiries regarding dataset licensing, please contact [huangqiang@dameng.com](huangqiang@dameng.com).
