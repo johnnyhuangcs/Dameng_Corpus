@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
   <img src="./logo/dameng.png" style="width: 180px; margin-right: 10px;">
-  <span style="font-size: 25px; vertical-align: middle;"><strong>Wuhan Dameng Database Co., Ltd</strong></span>
+  <span style="font-size: 50px; vertical-align: middle;"><strong>Wuhan Dameng Database Co., Ltd</strong></span>
 </div>
 
 Wuhan Dameng Database Co., Ltd is a leading database solutions provider in China and a key promoter of the domestic database software industry.
