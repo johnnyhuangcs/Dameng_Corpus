@@ -1,8 +1,8 @@
 # DM-RAG: Enhancing User Support in Dameng Databases with Retrieval-Augmented Generation
 
 **Wuhan Dameng Database Co., Ltd** is a publicly listed database company in China and an active contributor to the database ecosystem.
-- [**Dameng Chinese homepage**](https://dameng.com/)
-- [**Dameng English homepage**](https://en.dameng.com/)
+- [**Dameng official Chinese website**](https://dameng.com/)
+- [**Dameng official English website**](https://en.dameng.com/)
 
 
 ## Dameng_Corpus
