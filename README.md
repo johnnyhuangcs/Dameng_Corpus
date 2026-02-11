@@ -1,14 +1,14 @@
-![](./logo/dameng.png) 
+# DM-RAG: Enhancing User Support in Dameng Databases with Retrieval-Augmented Generation
 
-**Wuhan Dameng Database Co., Ltd** is a leading database solutions provider in China and a key promoter of the domestic database software industry.
+**Wuhan Dameng Database Co., Ltd** is a publicly listed database company in China and an active contributor to the database ecosystem.
+- [**Dameng Chinese homepage**](https://dameng.com/)
 - [**Dameng English homepage**](https://en.dameng.com/)
-- [**Dameng Chinese homepage**](https://eco.dameng.com/)
 
-# Dameng_Corpus
+
+## Dameng_Corpus
 The Dameng_Corpus is a chinese plain-text corpus for **DM-RAG**, obtained using parsing and text-cleaning methods from the documentation of Dameng databases.
 
 DM-RAG is a novel retrieval-augmented generation (RAG) framework developed by Wuhan Dameng Database Co., Ltd, specifically designed to assist users in the development and management of Dameng database systems. 
-
 
 
 ## Dataset Description
